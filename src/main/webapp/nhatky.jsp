@@ -22,7 +22,7 @@
 		<h1 class="p-140">Nhật Ký</h1>
 		<hr class="bg-red">
 		<div>
-			hello
+			hello man
 		</div>
 	</div>
 </div>
